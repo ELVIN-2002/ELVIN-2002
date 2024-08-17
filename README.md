@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ELVIN-2002
 - 👀 I’m interested in Electronics 
-- 🌱 I’m currently learning VLSI design and verification 
-- 💞️ I’m looking to collaborate on Semiconductor industry 
-- 📫 How to reach me by email : elvinalosious2002@gmail.com
-- 😄 Pronouns: He/Him/His
+-  I’m currently learning VLSI design and verification 
+-  I’m looking to collaborate on Semiconductor industry 
+- How to reach me by email : elvinalosious2002@gmail.com
+-  Pronouns: He/Him/His
 - ⚡ My loard is "Yahweh"
 
 <!---
